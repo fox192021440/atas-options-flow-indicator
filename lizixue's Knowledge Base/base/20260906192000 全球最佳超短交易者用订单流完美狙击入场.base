@@ -1,0 +1,24 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      or:
+        - file.path == "canve/20260822-190900 全球最佳超短交易者用订单流完美狙击入场.canvas"
+        - file.path == "page/202608221903 【精翻】全球最佳超短交易者用订单流完美狙击入场.md"
+        - file.path == "page/202608221916 市价买卖.md"
+        - file.path == "page/202608221931 限价卖卖.md"
+        - file.path == "page/202608230815 市场为什么波动.md"
+        - file.path == "page/202608291811 订单流策略.md"
+        - file.path == "page/202608301411 趋势交易模型.md"
+        - file.path == "page/202608301421 交易均值回归模型.md"
+    order:
+      - file.name
+      - file.tags
+      - file.ctime
+      - file.backlinks
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 433
+      file.tags: 211
