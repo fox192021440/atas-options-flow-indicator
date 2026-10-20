@@ -17,6 +17,7 @@ views:
     summaries: {}
     columnSize:
       file.name: 379
+      note.tags: 273
       file.ctime: 294
     imageAspectRatio: 1
     cardSize: 280

@@ -11,13 +11,17 @@
             "id": "239c8c6027ddb866",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "canvas",
               "state": {
-                "file": "base/20260906-194300 订单流训练营 拍卖市场理论 难受学习版.base",
-                "viewName": "表格"
+                "file": "canve/202610201316 侧面Lapping上下料自动化.canvas",
+                "viewState": {
+                  "x": 901.683458136278,
+                  "y": 353.9843801744353,
+                  "zoom": -1.5040625442994666
+                }
               },
-              "icon": "lucide-table",
-              "title": "20260906-194300 订单流训练营 拍卖市场理论 难受学习版"
+              "icon": "lucide-layout-dashboard",
+              "title": "202610201316 侧面Lapping上下料自动化"
             }
           }
         ]
@@ -82,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 481.5
+    "width": 200
   },
   "right": {
     "id": "6e1b049791249b58",
@@ -181,19 +185,29 @@
       "zk-prefixer:创建时间戳笔记": false,
       "canvas:新建白板": false,
       "bases:新建数据库": false,
-      "flowershow:Publish with Flowershow": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "graph:查看关系图谱": false,
       "switcher:打开快速切换": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "flowershow:Publish with Flowershow": false
     }
   },
   "active": "239c8c6027ddb866",
   "lastOpenFiles": [
-    "base/20260906192000 全球最佳超短交易者用订单流完美狙击入场.base",
+    "canve/20260809184500 股票策略.canvas",
+    "page/20261020-142824.png",
+    "page/20261020-142651.png",
+    "canve/202610201316 侧面Lapping上下料自动化.canvas",
+    "imge/20261020-132012.png",
+    "imge/20261020-134648.png",
+    "imge/20261020-134125.png",
+    "imge/20261020-132732.png",
+    "imge/20261020-132049.png",
+    "202610201316.md",
     "base/20260906-194300 订单流训练营 拍卖市场理论 难受学习版.base",
+    "base/20260906192000 全球最佳超短交易者用订单流完美狙击入场.base",
     "page/202609051654 订单流训练营1 cbrackn 难受学习版.md",
     "page/202609111856 订单流训练营3 成交量分布难受学习版.md",
     "page/202609061642 订单流训练营2 拍卖市场理论 难受学习版.md",
@@ -207,9 +221,6 @@
     "Pasted image 20260912184237.png",
     "Pasted image 20260912183704.png",
     "Pasted image 20260912183620.png",
-    "Pasted image 20260912183528.png",
-    "imge/20260911-190012.png",
-    "imge/20260911-185907.png",
     "page/20260814164300 凑双设备.md",
     "base/20260910211300 股价预期.base",
     "未命名.base",
@@ -219,11 +230,6 @@
     "page/202609102100 CLUSDT.md",
     "page/202609102109 HYPEUSDT.md",
     "page/202609101954 如果你正在学习订单流请，一定要看完.md",
-    "imge/20260910-200304.png",
-    "imge/20260910-205339.png",
-    "imge/20260910-205455.png",
-    "imge/20260910-210930.png",
-    "未命名.canvas",
     "base/20260906193400 订单流训练营1 cbrackn 难受学习版.base",
     "base/20260705145400 加工工艺.base",
     "base/20260705145300 标准件选型.base",
@@ -236,12 +242,10 @@
     "canve/20260822-190900 全球最佳超短交易者用订单流完美狙击入场.canvas",
     "2026-09-06.md",
     "page/202609061733 市场循环：有效、失衡与寻找平衡.md",
-    "page/202609061732 供需关系与钟形曲线（68%规则）.md",
     "canve/20260830092500 Fabio 直播交易剥头皮 2026 全球排名第一（极高准确率）.canvas",
     "20260905173700 订单流训练营1 cbrackn 难受学习版.canvas",
     "canve/20260830180400 HYPE复盘.canvas",
     "canve/20260815-143200 非标设计.canvas",
-    "canve/20260809184500 股票策略.canvas",
     "base/20260711-01 股票.base",
     "canve",
     "202606281426 成交量.canvas"
