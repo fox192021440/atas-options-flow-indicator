@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: 9muqc-mpkhf
-created: 2026-08-02T15:14:08+08:00
